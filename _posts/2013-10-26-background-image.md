@@ -10,7 +10,7 @@ image:
 
 2019暑假猫协喂猫次数统计点[这里](https://www.icloud.com/numbers/0nyJZTBehLRtJCvE2gPH1_O0Q)
 
-<a rel="license" href="http://baidu.com">test</a>
+<a rel="license" href="http://baidu.com" target="_blank">这里</a>
 
 Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
 
