@@ -8,7 +8,8 @@ image:
   background: triangular.png
 ---
 
-Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
+2019暑假喂猫统计可在这里查看
+https://www.icloud.com/numbers/0nyJZTBehLRtJCvE2gPH1_O0Q
 
 ```yaml
 image:
