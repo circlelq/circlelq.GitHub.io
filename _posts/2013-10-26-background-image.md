@@ -8,7 +8,11 @@ image:
   background: triangular.png
 ---
 
-2019暑假猫协喂猫次数统计点<a href=https://www.icloud.com/numbers/0nyJZTBehLRtJCvE2gPH1_O0Q>这里</a>
+2019暑假猫协喂猫次数统计点
+
+[这里](https://www.icloud.com/numbers/0nyJZTBehLRtJCvE2gPH1_O0Q)
+
+<a href=https://www.icloud.com/numbers/0nyJZTBehLRtJCvE2gPH1_O0Q>这里</a>
 
 Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
 
