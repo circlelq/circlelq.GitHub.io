@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 2019暑假猫协喂猫次数统计
-description: "Sample post with a background image CSS override."
-tags: [sample post]
+description: "the statistic on maoxie"
+tags: [statistic maoxie]
 author: circle
 image:
   background: triangular.png
@@ -14,7 +14,7 @@ image:
       <param name="src" value="/assets/img/maoxie.pdf">
 </object>
 
-<embed src="/assets/img/maoxie.pdf" width="210px" height="297px" />
+<embed src="/assets/img/maoxie.pdf" style="overflow: auto; width: 100%; height: 100%;" />
 
 
 
