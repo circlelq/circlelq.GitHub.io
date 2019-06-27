@@ -14,11 +14,6 @@ image:
       <param name="src" value="/assets/img/maoxie.pdf">
 </object>
 
-<embed src="/assets/img/maoxie.pdf" style="overflow: auto; width: 100%; height: 100%;" />
-
-
-
-
 <head> 
 <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
 <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
