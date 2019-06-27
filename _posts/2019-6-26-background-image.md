@@ -14,7 +14,7 @@ image:
 
 ### 前言
 
-为了激励大家喂猫，circle设置了一个评奖活动。circle会奖励2019年暑假喂猫次数在前三的本校同学冰淇淋，本活动非猫协官方行为，与猫协财政没有任何关系。
+为了激励大家喂猫，circle设置了一个评奖活动。circle会奖励2019年暑假喂猫次数在前三的本校同学冰淇淋，本活动非猫协官方行为，与猫协财政没有任何关系。<i class="fa fa-weixin"></i>
 
 ### 细则
 
@@ -26,3 +26,12 @@ image:
 ### 后记
 
 感谢大家关心燕园的流浪猫暑假时间很长，欢迎大家积极参与~没有歧视火淇淋的意思。
+
+
+
+<head> 
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
