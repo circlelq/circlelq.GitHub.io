@@ -10,11 +10,11 @@ image:
 
 2019暑假猫协喂猫次数统计点<a rel="license" href="https://www.icloud.com/numbers/0nyJZTBehLRtJCvE2gPH1_O0Q" target="_blank">这里</a>
 
-<object width="2100px" height="2970px" data="/assets/img/maoxie.pdf" type="application/pdf">
+<object width="210px" height="297px" data="/assets/img/maoxie.pdf" type="application/pdf">
       <param name="src" value="/assets/img/maoxie.pdf">
 </object>
 
-<embed src="/assets/img/maoxie.pdf" width="2100px" height="2970px" />
+<embed src="/assets/img/maoxie.pdf" width="210px" height="297px" />
 
 
 
