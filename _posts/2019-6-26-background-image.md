@@ -13,6 +13,8 @@ image:
 <object width="100%" height="100%" data="/assets/img/maoxie.pdf" type="application/pdf">
       <param name="src" value="/assets/img/maoxie.pdf">
 </object>
+<div id="pdf1" style="width:700px; height:600px;">It appears you don't have Adobe Reader or PDF support in this web browser. <a href="~/pdf/CGVET22-08-2011V2P.pdf">Click here to download the PDF</a></div>
+
 
 
 
