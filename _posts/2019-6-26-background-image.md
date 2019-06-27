@@ -27,7 +27,7 @@ image:
 
 感谢大家关心燕园的流浪猫暑假时间很长，欢迎大家积极参与~没有歧视火淇淋的意思。
 
-<object width="800" height="600" data="/assets/img/maoxie.pdf" type="application/pdf">
+<object width="100%" height="100%" data="/assets/img/maoxie.pdf" type="application/pdf">
       <param name="src" value="/assets/img/maoxie.pdf">
 </object>
 
