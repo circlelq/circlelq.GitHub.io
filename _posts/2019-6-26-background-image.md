@@ -31,8 +31,8 @@ image:
 <body>
 <p><center><h1>在HTML内嵌入PDF文件</h1></center></p>
 <object classid="clsid:CA8A9780-280D-11CF-A24D-444553540000" width="100%" height="720">
-<param name="SRC" value="maoxie.pdf" >
-<embed width="100%" height="400" fullscreen="yes" src="maoxie.pdf">
+<param name="SRC" value="/assets/img/maoxie.pdf" >
+<embed width="100%" height="400" fullscreen="yes" src="/assets/img/maoxie.pdf">
 <noembed>
 </noembed>
 </embed>
