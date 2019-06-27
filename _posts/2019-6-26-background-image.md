@@ -27,18 +27,10 @@ image:
 
 感谢大家关心燕园的流浪猫暑假时间很长，欢迎大家积极参与~没有歧视火淇淋的意思。
 
-<html>
-<body>
-<p><center><h1>在HTML内嵌入PDF文件</h1></center></p>
-<object classid="clsid:CA8A9780-280D-11CF-A24D-444553540000" width="100%" height="720">
-<param name="SRC" value="profile.jpg" >
-<embed width="100%" height="400" fullscreen="yes" src="profile.jpg">
-<noembed>
-</noembed>
-</embed>
+<object width="800" height="600" data="/assets/img/maoxie.pdf" type="application/pdf">
+      <param name="src" value="/assets/img/maoxie.pdf">
 </object>
-</body>
-</html>
+
 
 
 
