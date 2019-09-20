@@ -13,7 +13,7 @@
 
 <img src="/picture/下去位置.jpeg">
 
-![下去位置](picture/下去位置.jpeg)
+![下去位置](assets/img/下去位置.jpeg)
 
 从这下去
 
