@@ -17,7 +17,7 @@
 
 从这下去
 
-<img src="/assets/img/pp1.jpg">
+<img src="/assets/img/下去位置.jpeg">
 
 ![下去路线](picture/下去路线.jpeg)
 
