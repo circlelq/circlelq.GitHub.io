@@ -17,6 +17,8 @@
 
 从这下去
 
+<img src="/assets/img/下去位置.jpeg" width=100% height=10%> 
+
 ![下去路线](picture/下去路线.jpeg)
 
 南线下去路线
