@@ -25,17 +25,17 @@
 
 从这下去
 
-<img src="/assets/img/南线0.jpeg">
+<img src="/assets/img/南线0.jpg">
 
-<img src="/assets/img/南线1.jpeg">
+<img src="/assets/img/南线1.jpg">
 
-<img src="/assets/img/南线2.jpeg">
+<img src="/assets/img/南线2.jpg">
 
-<img src="/assets/img/南线3.jpeg">
+<img src="/assets/img/南线3.jpg">
 
-<img src="/assets/img/南线4.jpeg">
+<img src="/assets/img/南线4.jpg">
 
-<img src="/assets/img/南线5.jpeg">
+<img src="/assets/img/南线5.jpg">
 
 ### <span id="head5"> 北线下去路线</span>
 
