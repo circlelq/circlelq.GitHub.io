@@ -15,7 +15,7 @@
 
 ## <span id="head3"> Q：在哪集合？</span>
 
-北京大学28楼地下2层207对面的空地
+北京大学28楼西（背）面地下2层207对面的空地
 
 [28楼地图链接](https://gaode.com/search?id=B000A9O1VU&city=110108&geoobj=116.299975%7C39.988843%7C116.326439%7C40.002716&query_type=IDQ&query=北京大学28号楼&zoom=15.64)
 
@@ -38,6 +38,8 @@
 <img src="/assets/img/南线5.jpg">
 
 ### <span id="head5"> 北线下去路线</span>
+
+<img src="/assets/img/北线0.jpeg">
 
 北线需要到靠南边的小门打电话📲
 
